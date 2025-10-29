@@ -1519,13 +1519,15 @@
   },
   {
     "name": "@jiahe/rubick-maven-search",
-    "pluginName": "Maven搜索",
+    "author": "JIAHE",
+    "license": "MIT",
     "version": "1.0.1",
     "pluginType": "ui",
     "preload": "preload.js",
-    "description": "最快捷的Maven搜索。自研搜索算法，无论单词多长，输入你记得的前几个字母即可。热度排序，使用的人数越多，结果越智能。",
-    "homePage": "https://raw.githubusercontent.com/iamxiaojianzheng/rubick-plugins/refs/heads/main/maven-search/README.md",
+    "pluginName": "Maven搜索",
     "logo": "https://pica.zhimg.com/v2-b39ef280661e794671f49a844e7276aa.png",
+    "homePage": "https://raw.githubusercontent.com/iamxiaojianzheng/rubick-plugins/refs/heads/main/maven-search/README.md",
+    "description": "Rubick插件：最快捷的Maven搜索。自研搜索算法，无论单词多长，输入你记得的前几个字母即可。热度排序，使用的人数越多，结果越智能。",
     "features": [
       {
         "code": "maven",
@@ -1542,8 +1544,34 @@
         "explain": "输入内容查询依赖，复制格式为gradle(kotlin)格式",
         "cmds": ["kotlin"]
       }
-    ],
+    ]
+  },
+  {
+    "name": "@jiahe/rubick-regex-editor",
     "author": "JIAHE",
-    "license": "ISC"
+    "version": "1.0.0",
+    "pluginType": "ui",
+    "main": "index.html",
+    "unpack": "solver.php",
+    "pluginName": "正则编辑器",
+    "preload": "preload/preload.js",
+    "description": "JavaScript & PHP正则表达式编辑器",
+    "logo": "https://pic1.zhimg.com/v2-637e14288d76389dc4d982a60ba3f6a5.png",
+    "homePage": "https://raw.githubusercontent.com/iamxiaojianzheng/rubick-plugins/refs/heads/main/regex-editor/README.md",
+    "features": [
+      {
+        "code": "regex",
+        "explain": "正则表达式编辑器",
+        "cmds": [
+          "Regex Editor",
+          "正则编辑器",
+          {
+            "type": "regex",
+            "match": "/^\\/.*\\/[igmsuUxyDAXJ]*$/",
+            "label": "正则编辑器"
+          }
+        ]
+      }
+    ]
   }
 ]
