@@ -1526,7 +1526,7 @@
     "preload": "preload.js",
     "pluginName": "Maven搜索",
     "logo": "https://pica.zhimg.com/v2-b39ef280661e794671f49a844e7276aa.png",
-    "homePage": "https://raw.githubusercontent.com/iamxiaojianzheng/rubick-plugins/refs/heads/main/maven-search/README.md",
+    "homePage": "https://raw.githubusercontent.com/iamxiaojianzheng/ruck-plugins/refs/heads/main/maven-search/README.md",
     "description": "Rubick插件：最快捷的Maven搜索。自研搜索算法，无论单词多长，输入你记得的前几个字母即可。热度排序，使用的人数越多，结果越智能。",
     "features": [
       {
@@ -1557,7 +1557,7 @@
     "preload": "preload/preload.js",
     "description": "JavaScript & PHP正则表达式编辑器",
     "logo": "https://pic1.zhimg.com/v2-637e14288d76389dc4d982a60ba3f6a5.png",
-    "homePage": "https://raw.githubusercontent.com/iamxiaojianzheng/rubick-plugins/refs/heads/main/regex-editor/README.md",
+    "homePage": "https://raw.githubusercontent.com/iamxiaojianzheng/ruck-plugins/refs/heads/main/regex-editor/README.md",
     "features": [
       {
         "code": "regex",
@@ -1584,10 +1584,10 @@
     "description": "翻译",
     "preload": "preload.js",
     "logo": "https://fanyi-cdn.cdn.bcebos.com/webStatic/translation/img/favicon/favicon.ico",
-    "homePage": "https://raw.githubusercontent.com/iamxiaojianzheng/rubick-plugins/refs/heads/main/jinshan-translate/README.md",
+    "homePage": "https://raw.githubusercontent.com/iamxiaojianzheng/ruck-plugins/refs/heads/main/jinshan-translate/README.md",
     "repository": {
       "type": "git",
-      "url": "https://github.com/iamxiaojianzheng/rubick-plugins/tree/main/jinshan-translate"
+      "url": "https://github.com/iamxiaojianzheng/ruck-plugins/tree/main/jinshan-translate"
     },
     "features": [
       {
@@ -1618,7 +1618,7 @@
     "preload": "preload.js",
     "pluginName": "tinypng压缩图片",
     "description": "使用tinypng压缩图片",
-    "homePage": "https://raw.githubusercontent.com/iamxiaojianzheng/rubick-plugins/refs/heads/main/tinypng/README.md",
+    "homePage": "https://raw.githubusercontent.com/iamxiaojianzheng/ruck-plugins/refs/heads/main/tinypng/README.md",
     "logo": "https://picx.zhimg.com/v2-b642bdc9473b57d609f9bdf367a3dc42.png",
     "features": [
       {
