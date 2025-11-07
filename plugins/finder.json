@@ -2,8 +2,8 @@
   "must": [
     "rubick-system-clipboard",
     "rubick-plugin-rename",
-    "@jiahe/rubick-tinypng",
-    "@jiahe/rubick-jinshan-translate",
+    "@jiahe/ruck-tinypng",
+    "@jiahe/ruck-jinshan-translate",
     "rubick-ctool",
     "rubick-color"
   ],
@@ -25,7 +25,7 @@
     "rubick-host",
     "rubick-system-color-picker",
     "rubick-ui-webpage-open",
-    "@jiahe/rubick-jinshan-translate"
+    "@jiahe/ruck-jinshan-translate"
   ],
   "new": [
     "rubick-excalidraw",

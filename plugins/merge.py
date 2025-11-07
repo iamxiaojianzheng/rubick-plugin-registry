@@ -38,7 +38,9 @@ def merge_json_files():
 
     # 输出合并后的 JSON 对象到一个新的文件
     with open(all_json, "w", encoding="utf-8") as output_file:
-        json.dump(merged_data, output_file, ensure_ascii=False, indent=4)
+        output_file.write(
+            json.dumps(merged_data, ensure_ascii=False, separators=(",", ":"))
+        )
 
     print("All JSON files have been merged into 'all.json'.")
 

@@ -1,6 +1,6 @@
 [
-  "@jiahe/rubick-regex-editor",
-  "@jiahe/rubick-maven-search",
+  "@jiahe/ruck-regex-editor",
+  "@jiahe/ruck-maven-search",
   "rubick-suspension",
   "rubick-markdown",
   "rubick-nat",
