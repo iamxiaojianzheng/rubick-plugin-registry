@@ -2,6 +2,7 @@
   "@jiahe/ruck-codehelper",
   "@jiahe/ruck-regex-editor",
   "@jiahe/ruck-maven-search",
+  "@jiahe/ruck-ip-switcher",
   "rubick-suspension",
   "rubick-markdown",
   "rubick-nat",
